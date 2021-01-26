@@ -20,7 +20,7 @@ public class ProblemSet8 {
 
     }
 
-    public int[] threePoint(int[] a) {
+    public int[] threeProng(int[] a) {
 
     }
 
